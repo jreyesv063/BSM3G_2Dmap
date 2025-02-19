@@ -6,7 +6,7 @@
 # M=3000GeV sample
 # Dataset: https://cmsweb.cern.ch/das/request?view=list&limit=50&instance=prod%2Fglobal&input=file+dataset%3D%2FZprime_NonUniversalSSM_M3000_gl1p0_gh1p0_TuneCUETP8M1_13TeV-madgraph-pythia8%2FRunIISummer16NanoAODv7-PUMoriond17_Nano02Apr2020_102X_mcRun2_asymptotic_v8-v1%2FNANOAODSIM
 # XRootD server
-base_url="root://cmsxrootd.fnal.gov/"
+base_url="root://cmsdcadisk.fnal.gov//dcache/uscmsdisk/"
 
 # List of files
 files=(
